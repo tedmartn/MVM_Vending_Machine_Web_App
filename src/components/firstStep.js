@@ -2,9 +2,9 @@ import React from "react";
 const FirstStep = () => {
     return (
     <div>
-        First Step Form
+        Please fill out the fields below to continue
     </div>
     )
-}
+};
 
-export default FirstStep
+export default FirstStep;
